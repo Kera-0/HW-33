@@ -1,0 +1,7 @@
+{
+  "parameters": 19616649,
+  "best_validation_f1": 0.8227692810992067,
+  "test_f1": 0.7504479140005118,
+  "test_report": "              precision    recall  f1-score   support\n\n         LOC     0.7885    0.8717    0.8280      1668\n        MISC     0.6618    0.7165    0.6881       702\n         ORG     0.6892    0.7182    0.7034      1661\n         PER     0.7181    0.7718    0.7440      1617\n\n   micro avg     0.7242    0.7787    0.7504      5648\n   macro avg     0.7144    0.7696    0.7409      5648\nweighted avg     0.7234    0.7787    0.7499      5648\n",
+  "steps": 13420
+}

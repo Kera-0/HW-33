@@ -1,0 +1,7 @@
+torch
+numpy
+transformers==4.57.1
+datasets==4.4.1
+seqeval==1.2.2
+accelerate==1.16.0
+safetensors==0.8.0

@@ -1,0 +1,5 @@
+{
+  "validation_f1": 0.9501466275659824,
+  "test_f1": 0.9114857744994732,
+  "test_report": "              precision    recall  f1-score   support\n\n         LOC     0.9326    0.9287    0.9306      1668\n        MISC     0.7720    0.8390    0.8041       702\n         ORG     0.8796    0.9061    0.8926      1661\n         PER     0.9639    0.9567    0.9603      1617\n\n   micro avg     0.9042    0.9189    0.9115      5648\n   macro avg     0.8870    0.9076    0.8969      5648\nweighted avg     0.9060    0.9189    0.9122      5648\n"
+}
